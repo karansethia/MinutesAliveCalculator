@@ -13,9 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:fontFamily="sans-serif-black"
-        android:text="Calculate your"
+        android:text="Calculate your Age"
         android:textColor="#673AB7"
-        android:textSize="24sp"
-        />
+        android:textSize="24sp" />
 
 </LinearLayout>
